@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/amitrajpushkar/BMI.git/static/css/main.7954c82c.css",
-    "main.js": "/amitrajpushkar/BMI.git/static/js/main.8bd51805.js",
-    "static/js/787.bd71c651.chunk.js": "/amitrajpushkar/BMI.git/static/js/787.bd71c651.chunk.js",
-    "static/media/obese.jpg": "/amitrajpushkar/BMI.git/static/media/obese.98442e895436a751a036.jpg",
-    "static/media/skinny.jpg": "/amitrajpushkar/BMI.git/static/media/skinny.99ad4bd68ac441e7e07e.jpg",
-    "static/media/bumstead.jpg": "/amitrajpushkar/BMI.git/static/media/bumstead.a1393a3a0728e0c935e0.jpg",
-    "static/media/logo.svg": "/amitrajpushkar/BMI.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/amitrajpushkar/BMI.git/index.html",
-    "main.7954c82c.css.map": "/amitrajpushkar/BMI.git/static/css/main.7954c82c.css.map",
-    "main.8bd51805.js.map": "/amitrajpushkar/BMI.git/static/js/main.8bd51805.js.map",
-    "787.bd71c651.chunk.js.map": "/amitrajpushkar/BMI.git/static/js/787.bd71c651.chunk.js.map"
+    "main.css": "/BMI/static/css/main.7954c82c.css",
+    "main.js": "/BMI/static/js/main.9e4597dc.js",
+    "static/js/787.bd71c651.chunk.js": "/BMI/static/js/787.bd71c651.chunk.js",
+    "static/media/obese.jpg": "/BMI/static/media/obese.98442e895436a751a036.jpg",
+    "static/media/skinny.jpg": "/BMI/static/media/skinny.99ad4bd68ac441e7e07e.jpg",
+    "static/media/bumstead.jpg": "/BMI/static/media/bumstead.a1393a3a0728e0c935e0.jpg",
+    "static/media/logo.svg": "/BMI/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/BMI/index.html",
+    "main.7954c82c.css.map": "/BMI/static/css/main.7954c82c.css.map",
+    "main.9e4597dc.js.map": "/BMI/static/js/main.9e4597dc.js.map",
+    "787.bd71c651.chunk.js.map": "/BMI/static/js/787.bd71c651.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7954c82c.css",
-    "static/js/main.8bd51805.js"
+    "static/js/main.9e4597dc.js"
   ]
 }
